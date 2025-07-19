@@ -1,0 +1,8 @@
+selenium
+webdriver_manager
+random2
+chromedriver
+pandas
+regex
+var
+streamlit
